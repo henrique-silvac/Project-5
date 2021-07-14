@@ -13,6 +13,7 @@
 		0BACF9F6269F32840085283E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BACF9F5269F32840085283E /* Assets.xcassets */; };
 		0BACF9F9269F32840085283E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BACF9F7269F32840085283E /* LaunchScreen.storyboard */; };
 		0BACFA03269F3AAD0085283E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BACFA02269F3AAD0085283E /* TableViewController.swift */; };
+		0BACFA08269F3E310085283E /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0BACFA07269F3E310085283E /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0BACF9F8269F32840085283E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0BACF9FA269F32840085283E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0BACFA02269F3AAD0085283E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		0BACFA07269F3E310085283E /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				0BACF9F5269F32840085283E /* Assets.xcassets */,
 				0BACF9F7269F32840085283E /* LaunchScreen.storyboard */,
 				0BACF9FA269F32840085283E /* Info.plist */,
+				0BACFA07269F3E310085283E /* start.txt */,
 			);
 			path = "Project 5";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0BACF9F9269F32840085283E /* LaunchScreen.storyboard in Resources */,
+				0BACFA08269F3E310085283E /* start.txt in Resources */,
 				0BACF9F6269F32840085283E /* Assets.xcassets in Resources */,
 				0BACF9F4269F32800085283E /* Main.storyboard in Resources */,
 			);
